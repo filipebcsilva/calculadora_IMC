@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calculadora_imc</string>
+    <string name="edit_weight">Insira seu peso (KG)</string>
+    <string name="text_weight">Peso atual</string>
+    <string name="edit_height">Insira sua altura (m)</string>
+    <string name="text_height">Altura atual</string>
+    <string name="text_imc">Seu imc é:</string>
+    <string name="value_imc">0</string>
+    <string name="button_calculate">Calcular</string>
+    <string name="error_msg">Operação inválida, altura e peso devem ser definidos</string>
+    <string name="success_msg">Cálculo concluído com sucesso</string>
+    <string name="text_result">Você está com</string>
+</resources>
